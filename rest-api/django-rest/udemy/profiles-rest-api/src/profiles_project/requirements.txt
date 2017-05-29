@@ -1,0 +1,6 @@
+Django==1.11.1
+Polygon2==2.0.6
+djangorestframework==3.6.3
+fonttools==2.3
+numpy==1.9.1
+pytz==2017.2
