@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Viberr</title>
+    <title>
+      {% block title %}
+      Viberr
+      {% endblock %}
+    </title>
     <!-- Loads the path to your static files -->
     {% load staticfiles %}
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
