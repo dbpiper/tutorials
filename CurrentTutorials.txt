@@ -1,0 +1,8 @@
+django/thenewboston:
+
+https://www.youtube.com/watch?v=c3yB0_4Yd48&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK&index=29
+
+
+rest-api/django/official:
+
+http://www.django-rest-framework.org/tutorial/2-requests-and-responses/
